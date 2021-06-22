@@ -1,0 +1,61 @@
+img {
+    width: 90px;
+}
+
+.container {
+    width: 375px;
+    height: 600px;
+    background-color:hsl(31, 77%, 52%);
+    padding: 50px 45px;
+}
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    color: hsl(0, 0%, 95%);
+    font-size: 50px;
+}
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    color:hsla(0, 0%, 100%, 0.75);
+    font-size: 25px;
+    margin-bottom: 200px;
+
+}p, button {
+    font-family: 'Lexend Deca', sans-serif;
+}
+button {
+    background-color: hsla(0, 0%, 100%, 0.75);
+    border-radius: 40px;
+    border: 0px;
+    color: hsl(31, 77%, 52%);
+    padding: 18px 38px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.container2 {
+    width: 375px;
+    height: 600px;
+    background-color:hsl(184, 40%, 42%) ;
+    padding: 50px 45px;
+}
+.container2 button {
+    color: hsl(184, 40%, 42%);
+    background-color: hsl(0, 0%, 95%);
+}
+
+.container3 {
+    width: 375px;
+    height: 600px;
+    background-color: hsl(179, 100%, 13%);
+    padding: 50px 45px;
+}
+.container3 button {
+    color: hsl(179, 100%, 13%);
+    background-color:  hsl(0, 0%, 95%);
+}
+.flexcontainer {
+    display: flex;
+    width: 1440px;
+    border-radius: 30px;
+}
